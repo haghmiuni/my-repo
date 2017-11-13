@@ -1,7 +1,7 @@
 
-EC2 and RDS Migration/Cloniing Procetures 
+EC2 and RDS Migration/Cloning Playbooks 
 ======
-There are three playbooks
+This document will explore the Ansibe Playbook. The main Playbook has two roles. The name of the Playbook is "migclone_ec2_rds_playbook.yml"
 
 
 
