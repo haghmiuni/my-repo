@@ -1,11 +1,3 @@
-#  ![png](https://user-images.githubusercontent.com/6971421/27861136-5f791fa2-6134-11e7-85f5-97c00a39b84a.png ) GitJourney 
-
-
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d6fabe013081423eaedcf07056f48b15)](https://www.codacy.com/app/OlgaKuklina/GitJourney?utm_source=github.com&utm_medium=referral&utm_content=OlgaKuklina/GitHubJourney&utm_campaign=badger) [![Build Status](https://travis-ci.org/OlgaKuklina/GitJourney.svg?branch=master)](https://travis-ci.org/OlgaKuklina/GitJourney)
-
-
-![gjimg7](https://user-images.githubusercontent.com/6971421/27860742-ba54135c-6132-11e7-9a72-929bd922e88a.png)
-
 
 Overview
 ======
