@@ -1,14 +1,9 @@
 
-Overview 
+EC2 and RDS Migration/Cloniing Procetures 
 ======
 There are three playbooks
 
-test
-=============
-The application implements secure login with OAuth to access user data.
 
-In the main screen user is able to monitor daily contributions activity placed in chronological
-order. 
 
 You can explore your GitHub data such as repositories, followers list, and your starring, watching activity.
 The application allows you to monitor other users profile data and activities, analyze source code.
