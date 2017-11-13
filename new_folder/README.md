@@ -1,8 +1,6 @@
 
-EC2 and RDS Migration/Cloning Playbooks 
+Overview 
 ======
-This document will explore the Ansibe Playbook. The main Playbook has two roles. The name of the Playbook is "migclone_ec2_rds_playbook.yml"
-
 
 
 You can explore your GitHub data such as repositories, followers list, and your starring, watching activity.
