@@ -1,8 +1,7 @@
 
 Overview
 ======
-An open-source GitHub client is your co-pilot to navigate the GitHub content, monitor
-github activity, check for news and updates.
+There are three playbooks
 
 The application implements secure login with OAuth to access user data.
 
